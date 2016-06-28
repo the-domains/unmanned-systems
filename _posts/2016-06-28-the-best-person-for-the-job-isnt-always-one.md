@@ -26,8 +26,8 @@ app_links: []
 isBasedOnUrl: >-
   http://www.lockheedmartin.com/us/what-we-do/aerospace-defense/unmanned-systems.html
 title: The best person for the job isn't always one
-datePublished: '2016-06-28T18:37:04.343Z'
-dateModified: '2016-06-28T18:34:31.586Z'
+datePublished: '2016-06-28T18:38:06.949Z'
+dateModified: '2016-06-28T18:37:36.611Z'
 starred: false
 sourcePath: _posts/2016-06-28-the-best-person-for-the-job-isnt-always-one.md
 inFeed: true
