@@ -1,0 +1,14 @@
+layout_spectrum: 0.9115642649121583
+typography_spectrum: 0.5557179977186024
+color:
+  brandStrength: 0.6991794409696013
+  lightness: 0.24159801751375198
+  saturation: 0.1034674842376262
+  rhythmicContrast: 0.3527336094994098
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Unmanned Systems
